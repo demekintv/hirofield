@@ -615,7 +615,7 @@
             "curse": "flash",
             "price": 15,
             "giftRate": 1,
-            "name": "ZAPザップダブルトラブルスタンガン120万V"
+            "name": "ザップダブルトラブルスタンガン"
         },
         {
             "imageName": "fire-whip",
@@ -2775,28 +2775,28 @@
             "darkcloud": "全体攻撃を受けると<br>必ず命中する"
         },
         "guardianNames": {
-            "mars": "火星神",
-            "mercury": "水星神",
-            "jupiter": "木星神",
-            "saturn": "土星神",
-            "uranus": "天王神",
-            "pluto": "冥王神",
-            "neptune": "海王神",
-            "venus": "金星神",
+            "mars": "松岡ヒロバル",
+            "mercury": "本日のツォー",
+            "jupiter": "神ツキ",
+            "saturn": "ディアルガ",
+            "uranus": "犬",
+            "pluto": "奴隷少女神",
+            "neptune": "子ザル",
+            "venus": "MrBeast",
             "earth": "地球神",
-            "moon": "月神"
+            "moon": "み月神"
         },
         "guardianDescriptions": {
-            "mars": "火を司る守護神",
-            "mercury": "水を司る守護神",
-            "jupiter": "木を司る守護神",
-            "saturn": "土を司る守護神",
-            "uranus": "光を司る守護神",
-            "pluto": "闇を司る守護神",
-            "neptune": "いやしを司る守護神",
-            "venus": "お金を司る守護神",
+            "mars": "諦めんな！ネバーギブアップ",
+            "mercury": "トド",
+            "jupiter": "私はミツキさんよ",
+            "saturn": "じかんポケモン",
+            "uranus": "ワン",
+            "pluto": "始まっていく・・・",
+            "neptune": "（温泉の絵文字）",
+            "venus": "BeastのMoneyMoney",
             "earth": "神器を司る守護神",
-            "moon": "奇跡を司る守護神"
+            "moon": "ちんちん雑魚"
         },
         "modeNames": {
             "training": "ぼっち",
