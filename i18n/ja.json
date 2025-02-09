@@ -1820,7 +1820,7 @@
             "name": "しじみチャンス"
         },
         {
-            "imageName": "guardian-sealed-jar",
+            "imageName": "guardian-pot",
             "category": "sundries",
             "ability": "setGuardian",
             "price": 10,
